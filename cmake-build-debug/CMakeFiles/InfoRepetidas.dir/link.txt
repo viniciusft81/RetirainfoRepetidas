@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/InfoRepetidas.dir/main.cpp.o  -o InfoRepetidas 

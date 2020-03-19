@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/viniciusft/CLionProjects/InfoRepetidas/main.cpp
+iostream
+-
+fstream
+-
+list
+-
+string
+-
+
